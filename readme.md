@@ -1,4 +1,4 @@
-<h1 align='center'>:spyder: Sentiment Analyzer</h1>
+<h1 align='center'>:spider: Sentiment Analyzer</h1>
 <br>
 <span>This project was buildt using Python and the NLTK lib following the <a href='https://www.amazon.com/Artificial-Intelligence-Python-Comprehensive-Intelligent/dp/178646439X'>Artificial Intelligence with Python</a> book.</span>
 <br>
